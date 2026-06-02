@@ -1,4 +1,4 @@
-# Maxwell Duedu
+# ♻️ Maxwell Duedu
 
 **Full Stack Engineer | Fintech, AI & EdTech Systems**
 
